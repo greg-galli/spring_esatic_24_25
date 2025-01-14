@@ -11,7 +11,7 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
 - Utilisez [Spring Initializr](https://start.spring.io/) pour créer le projet.
 - Choisissez la dernière version de Spring Boot disponible (LTS).
 - Optez pour **Maven** ou **Gradle** comme outil de gestion de dépendances.
-- Ajoutez les dépendances nécessaires : **Spring Web**, **Spring Data JPA**, **H2 Database** .
+- Ajoutez les dépendances nécessaires : **Spring Web**, **Spring Data JPA**, **H2 Database** et **Lombok** .
 
 ### 2. Configuration du projet
 - Configurez l'application pour qu'elle utilise le port **8081**.
