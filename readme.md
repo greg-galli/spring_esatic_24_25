@@ -53,14 +53,6 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
 - Démarrez l'application et testez les endpoints.
 - Vérifiez les résultats dans la base de données et les réponses JSON.
 
-### 10. (Bonus) Ajout de fonctionnalités avancées
-- **Swagger** :
-  - Ajoutez la dépendance Swagger/OpenAPI.
-  - Configurez Swagger pour documenter vos endpoints.
-  - Accédez à la documentation sur **`http://localhost:8081/swagger-ui.html`**.
-- **Lombok** :
-  - Utilisez Lombok pour simplifier les getters, setters et constructeurs de vos entités.
-
 ---
 
 ## Livrables
