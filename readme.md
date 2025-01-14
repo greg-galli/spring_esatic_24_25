@@ -64,7 +64,7 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
 ---
 
 ## Livrables
-- Le code complet du projet, accessible via un dépôt GitHub.
+- Le code complet du projet sur l'assignment suivant : https://classroom.github.com/a/T0AbcFc9
 - Un fichier `README.md` décrivant les étapes réalisées
 
 ## Technologies
