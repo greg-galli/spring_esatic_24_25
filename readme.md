@@ -62,5 +62,4 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
 ## Technologies
 - **Framework principal** : Spring Boot
 - **Base de données** : H2 
-- **Documentation API** : Swagger (bonus)
-- **Simplification de code** : Lombok (bonus)
+- **Simplification de code** : Lombok
