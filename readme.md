@@ -71,7 +71,7 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
     - DELETE       /api/DiceRollLog
   - Retournez systématiquement les codes HTTP appropriés
   - Ne laissez aucun cas non traité
-  - Fournir une documentation de l'API accompagnée de Test
+  - Fournir une documentation de l'API accompagnée de Test. Vous devez impérativement tester chaque cas possible pour chaque endpoint.
   - Ajoutez dans votre projet l'export de votre collection POSTMAN
     
 ---
