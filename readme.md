@@ -60,6 +60,20 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
   - Modifiez votre DiceController afin qu'il ne retourne lui aussi plus que des DTOs
   - Rajoutez une couche d'abstraction entre le DiceService et le DiceController
   - Enfin, modifiez le reste du code pour refléter ces changements
+
+### 11. Mise en place d'une API REST complète sur l'entité **DiceRollLog**
+  - Mettre en place un Controller qui devra gérer les points d'entrée suivant :
+    - GET          /api/DiceRollLogs
+    - POST         /api/DiceRollLogs
+    - GET          /api/DiceRollLog
+    - PUT          /api/DiceRollLog
+    - PATCH        /api/DiceRollLog
+    - DELETE       /api/DiceRollLog
+  - Retournez systématiquement les codes HTTP appropriés
+  - Ne laissez aucun cas non traité
+  - Fournir une documentation de l'API accompagnée de Test
+  - Ajoutez dans votre projet l'export de votre collection POSTMAN
+    
 ---
 
 ## Livrables
