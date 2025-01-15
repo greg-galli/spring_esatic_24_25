@@ -53,6 +53,13 @@ Le projet "Dice" est une application construite avec Spring Boot permettant de s
 - Démarrez l'application et testez les endpoints.
 - Vérifiez les résultats dans la base de données et les réponses JSON.
 
+### 10. Mise en place, respect des bonnes pratiques
+  - Ajouter une notion de DTO pour remplacer le transfert de DiceRollLog
+  - Créez un Mapper qui sera en charge de convertir DiceRollLog --> DiceRollLogDTO et inversement
+  - Modifiez votre DiceService pour faire en sorte qu'il ne retourne plus que des DTOs
+  - Modifiez votre DiceController afin qu'il ne retourne lui aussi plus que des DTOs
+  - Rajoutez une couche d'abstraction entre le DiceService et le DiceController
+  - Enfin, modifiez le reste du code pour refléter ces changements
 ---
 
 ## Livrables
